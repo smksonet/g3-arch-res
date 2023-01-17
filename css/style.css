@@ -61,6 +61,7 @@ img{
 }
 .team{
     display: flex;
+    
 }
 .team-img img{
     width: 300px;
@@ -318,7 +319,7 @@ textarea{
 }
 .team{
     display: flex;
-    flex-direction: column;
+    flex-direction: column-reverse;
     align-items: center;
 }
 .team-img{
